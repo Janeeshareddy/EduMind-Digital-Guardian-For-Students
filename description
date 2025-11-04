@@ -1,0 +1,13 @@
+Digital Guardian for Students
+A smart desktop assistant designed to help students manage their productivity, emotions, and study schedule — all in one place.
+Digital Guardian is an AI-inspired productivity app built using Python (Tkinter GUI) that empowers students to stay organized, focused, and mentally balanced. It combines essential study tools with mood and task tracking features, offering a  digital companion for student life.
+Features:
+ Task Manager: Add, edit, and track academic or personal tasks easily.
+ Mood Tracker: Record your daily mood to monitor emotional well-being.
+ Study Timer: Stay disciplined with a built-in Pomodoro-style timer.
+ Progress Insights: View daily productivity and emotional trends.
+Clean & Creative GUI: Aesthetic and easy-to-use interface built with Tkinter.
+Tech Stack
+Language: Python
+Framework: Tkinter
+Libraries Used: datetime, csv, tkinter.messagebox, time
